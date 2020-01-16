@@ -12,7 +12,6 @@ deploy:
     - /target/releases/ParsiAnalyzer-1.0-SNAPSHOT.zip
   skip_cleanup: true
   on:
-    repo: https://github.com/hadirsa/ParsiAnalyzer
     tags: true
 
 

@@ -1,4 +1,5 @@
-# ParsiAnalyzer
+# ParsiAnalyzer  ![](https://travis-ci.com/hadirsa/ParsiAnalyzer.svg?branch=master )
+
 ParsiAnalyzer is an analysis plugin for Elasticsearch. Analysis is a process that consists of the following steps:
 
 - Tokenizing a block of text into individual terms
